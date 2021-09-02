@@ -1,5 +1,4 @@
 # Seaborn-study
-Seaborn 복습
 --
 ## Seaborn study Day 1 (2021-09-02)
 
