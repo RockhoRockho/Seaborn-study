@@ -49,3 +49,19 @@
     - `logistic`, `lowess`, `_jitter`
 - 구조화된 다중 플롯 그리드(`FacetGrid()`) 학습
 - 커스텀 함수 
+
+--
+
+## Seaborn study Day 2 (2021-09-04)
+
+- 페어와이즈 데이터 관계 학습(`PairGrid()`, `pairplot()`)
+- 그림 미학 제어 학습
+- Seaborn 스타일 학습(`set_style()`)
+- 축 스핀 제거 학습(`despine()`)
+- 스타일 임시 설정 학습
+- 스타일 요소 재정의 학습(`axes_style()`)
+- 스케일링 플롯 요소 학습(`set_context()`)
+- 컬러 팔레트 학습(`palplot()`, `color_palette()`, `xkcd_rgb[]`, `cubehelix_palette()`, `light_palette()`, `dark_palette()`, `diverging_palette()`, `set_palette()`)
+
+--
+
